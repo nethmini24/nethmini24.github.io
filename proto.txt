@@ -1,0 +1,191 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title> Samindi De Silva</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+                                               <img src="C:\Users\User\Desktop\PORTFOLIO 2\Image 1.jpeg"size="1"width="20%">
+                                               
+
+						<h1>HI,I'M SAMINDI<br />
+				DE SILVA</h1>
+						<p> I am an undergraduate student at SLIIT,<p/>
+					
+	
+				
+				
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="C:\Users\User\Downloads\Samindi De Silva.pdf" class="logo">Resume</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">PROJECTS</a></li>
+							<li><a href="generic.html">EDUCATIONAL QUALIFICATIONS</a></li>
+							<li><a href="elements.html">CONTACTS</a></li>
+						</ul>
+						<ul class="icons">
+									<li classïcon solid fa-envelope"><a href="#">hs21907166@my.sliit.lk</a></li>
+									<li class="icon brands fa-github"><a href="#">netmini24.github.io</a></li>
+							
+							
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<span class="date">April 25, 2017</span>
+									<h2>these are <br />
+							                my projects</h2>
+									
+								</header>
+								<ul class="actions special">
+									<li><a href="#" class="button large">CHECK OUT MY PROJECTS</a></li>
+								</ul>
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+								<article id="INFORMATION TECHNOLOGY">
+									<header>
+										<h2>INFORMATION TECHNOLOGY
+										</h2>
+									</header>
+									<img src="C:\Users\User\Desktop\PORTFOLIO 2\download.jpg" >
+									<p>INFORMATION TECHNOLOGY IS A KEY TO DEVOLOPMENT OF THE MODERN WORLD</p>
+                                                                        <a href="HS21907166_Samindi De Silva.xlsx">Excel project</a><br>
+                                                                        <a href="De Silva G.S.N_HS21907166.pptx">power point document</a>
+									
+										
+									
+								</article>
+								<article>
+									<header>
+										<h2>BIOTECHNOLOGY</h2>
+										
+											
+									</header>
+									<img src="C:\Users\User\Desktop\PORTFOLIO 2\download (2).jpg"><br>
+									<a href="GROUP - 4 Blue Ocean New.pptx">Group presentation 1</a><br>
+                                                                        <video width="320" height="250" controls>
+                                                                        <source src="group 4 mosses(3).mp4" type=video/mp4>
+                                                                        </video>
+                                                                        <h4>Group video about mosses</h4>                                                     
+
+								</article>
+								<article>
+									<header>
+										<h2>LABORATARY SAFETY AND MANAGEMENT</h2>
+										
+										
+									</header>
+                                                                        <img src="download 7.jpg"><br>
+									<img src="lab floor plan.jpeg" size="1" width="100%"><br>
+                                                                        <h4>Lab floor plan- Group project</h4>
+									
+								</article>
+                                                             </div>   
+
+						<!-- Footer -->
+							<footer>
+								<div class="pagination">
+									<!--<a href="#" class="previous">Prev</a>-->
+									<a href="#" class="page active">1</a>
+									<a href="#" class="page">2</a>
+									<a href="#" class="page">3</a>
+							
+									<a href="#" class="next">Next</a>
+								</div>
+							</footer>
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field">
+										<label for="name">Name</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field">
+										<label for="email">Email</label>
+										<input type="text" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Message</label>
+										<textarea name="message" id="message" rows="3"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</form>
+						</section>
+						<section class="split contact">
+							<section class="alt">
+								<h3>Address</h3>
+								<p>1234 Somewhere Road #87257<br />
+								Nashville, TN 00000-0000</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="#">(000) 000-0000</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">info@untitled.tld</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
